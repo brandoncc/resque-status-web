@@ -1,4 +1,4 @@
-# Resque::Statuse::Web
+# Resque::Status::Web
 
 This gem provides tabs in [Resque Web](https://github.com/resque/resque-web) for managing 
 [Resque Status](https://github.com/quirkey/resque-status). 
